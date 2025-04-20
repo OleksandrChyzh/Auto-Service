@@ -1,0 +1,176 @@
+/* Загальні стилі */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f8f8f8;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+/* Стилі для хедера */
+header {
+  background-color: #222;
+  padding: 15px 0;
+  color: white;
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo a {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.menu {
+  display: flex;
+  list-style: none;
+}
+
+.menu li {
+  margin-left: 20px;
+}
+
+.menu a {
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.menu a:hover, .menu a.active {
+  color: #ff6347;
+}
+
+/* Стилі для основного контенту без повторного фону */
+main {
+  min-height: calc(100vh - 130px);
+  position: relative;
+}
+
+main::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1;
+}
+
+.services-intro, .services-list {
+  position: relative;
+  z-index: 2;
+  padding: 50px 0;
+}
+
+.subtitle {
+  color: #aaa;
+  font-size: 22px;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.title {
+  color: #ff6347;
+  font-size: 42px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.divider {
+  height: 3px;
+  width: 100px;
+  background-color: #ff6347;
+  margin: 0 auto 50px;
+}
+
+/* Сітка послуг */
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+/* Картка послуги */
+.service-card {
+  background-color: white;
+  border-radius: 8px;
+  padding: 30px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.service-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+.service-card h3 {
+  color: #222;
+  font-size: 20px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.service-card p {
+  color: #666;
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.service-price {
+  color: #ff6347;
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 15px;
+  border-top: 1px solid #eee;
+}
+
+/* Стилі для футера */
+footer {
+  background-color: #222;
+  color: white;
+  padding: 15px 0;
+  text-align: center;
+}
+
+/* Медіа-запити для адаптивності */
+@media (max-width: 992px) {
+  .services-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 768px) {
+  .services-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .title {
+    font-size: 32px;
+  }
+
+  .subtitle {
+    font-size: 18px;
+  }
+}
