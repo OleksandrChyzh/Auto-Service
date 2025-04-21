@@ -1,11 +1,14 @@
-<!-- shared/componentes/top-panel/top-panel.component.html -->
-
 <nav class="top-panel">
   <div class="logo">AutoService</div>
   <ul class="nav-links">
     <li><a routerLink="/">Головна</a></li>
     <li><a routerLink="/auto-services">Послуги</a></li>
     <li><a routerLink="/contacts">Контакти</a></li>
-    <li><a routerLink="/login">Увійти</a></li>
+    <li>
+      <button class="login-btn" (click)="openAuthModal()">Увійти</button>
+    </li>
   </ul>
 </nav>
+
+<!-- Модальне вікно -->
+<app-auth-modal *ngIf="showAuthModal" (close)="closeAuthModal()"></app-auth-modal>
