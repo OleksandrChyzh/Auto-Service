@@ -1,0 +1,22 @@
+<div class="user-dropdown">
+  <div class="user-name" (click)="toggleDropdown()">
+    {{ user.name }}
+  </div>
+  <div class="dropdown-menu" *ngIf="isDropdownOpen">
+    <div class="user-info">
+      <div class="user-avatar">
+        <img *ngIf="user.avatarUrl" [src]="user.avatarUrl" alt="Аватар користувача">
+        <div *ngIf="!user.avatarUrl" class="default-avatar">{{ getInitials() }}</div>
+      </div>
+      <div class="user-details">
+        <div class="name">{{ user.name }}</div>
+        <div class="email">{{ user.email }}</div>
+      </div>
+    </div>
+    <div class="dropdown-divider"></div>
+    <div class="dropdown-actions">
+      <a routerLink="/client/profile">Мій профіль</a>
+      <a (click)="logout()">Вийти</a>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,52 @@
+.top-panel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  background-color: #2d2d2d;
+  padding: 0 20px;
+  color: white;
+}
+
+.top-panel .logo {
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 60px;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  list-style: none; /* This removes the bullets/dots */
+}
+
+.nav-links li a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 60px;
+}
+
+.nav-links li a:hover {
+  text-decoration: underline;
+}
+
+.login-btn {
+  background-color: #1e88e5;
+  color: white;
+  border: none;
+  padding: 6px 16px;
+  border-radius: 4px;
+  font-weight: 500;
+  cursor: pointer;
+  height: 36px;
+  line-height: 24px;
+  margin: 0;
+}
+.login-btn:hover {
+  background-color: #1565c0;
+}
