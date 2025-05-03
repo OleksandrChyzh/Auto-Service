@@ -1,12 +1,13 @@
-﻿using System;
+﻿using DAL.Entities;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BusinessLogic
+namespace DAL.Interfaces
 {
-    public class Class1
+    public interface IUserRepository : IRepository<User>
     {
     }
 }

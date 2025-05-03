@@ -1,35 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Entities;
 
-[Table("OrderService ")]
-public partial class OrderService
+public partial class OrderService : IBaseEntity
 {
-    [Key]
-    [Column("OrderServiceID ")]
-    public decimal OrderServiceId { get; set; }
+    public int Id { get; set; }
 
-    [Column("OrderID ")]
-    public decimal OrderId { get; set; }
+    public int ServiceId { get; set; }
 
-    [Column("ServiceID ")]
-    public decimal ServiceId { get; set; }
-
-    [Column("Quantity ")]
     public int Quantity { get; set; }
 
-    [Column("TotalPrice ")]
     public decimal TotalPrice { get; set; }
 
-    [ForeignKey("OrderId")]
-    [InverseProperty("OrderServices")]
+    public int OrderId { get; set; }
+
     public virtual Order Order { get; set; } = null!;
 
-    [ForeignKey("ServiceId")]
-    [InverseProperty("OrderServices")]
     public virtual Service Service { get; set; } = null!;
 }

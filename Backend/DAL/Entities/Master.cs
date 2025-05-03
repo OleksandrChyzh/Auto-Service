@@ -1,33 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Entities;
 
-[Table("Master ")]
-public partial class Master
+public partial class Master : IBaseEntity
 {
-    [Key]
-    [Column("MasterID ")]
-    public decimal MasterId { get; set; }
+    public int Id { get; set; }
 
-    [Column("FullName ", TypeName = "character varying")]
-    public string FullName { get; set; } = null!;
-
-    [Column("Specialization ", TypeName = "character varying")]
     public string Specialization { get; set; } = null!;
 
-    public int UserId { get; set; }
-
-    [InverseProperty("Master")]
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
 
-    [ForeignKey("UserId")]
-    [InverseProperty("Masters")]
-    public virtual User User { get; set; } = null!;
+    public virtual ICollection<Schedule> Schedules { get; set; } = new List<Schedule>();
 
-    [InverseProperty("Master")]
-    public virtual ICollection<Weeklyschedule> Weeklyschedules { get; set; } = new List<Weeklyschedule>();
+    public virtual User User { get; set; } = null!;
 }

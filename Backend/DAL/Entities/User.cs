@@ -1,41 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using Microsoft.EntityFrameworkCore;
-
+using Microsoft.AspNetCore.Identity;
 namespace DAL.Entities;
 
-[Index("Username", Name = "users_username_key", IsUnique = true)]
-public partial class User
+public partial class User : IdentityUser<int>, IBaseEntity
 {
-    [Key]
-    [Column("userid")]
-    public int Userid { get; set; }
 
-    [Column("username")]
-    [StringLength(50)]
-    public string Username { get; set; } = null!;
+    public virtual Master? Master { get; set; }
 
-    [Column("passwordhash")]
-    public string Passwordhash { get; set; } = null!;
+    public virtual ICollection<Car> Cars { get; set; } = new List<Car>();
 
-    [Column("role")]
-    [StringLength(20)]
-    public string Role { get; set; } = null!;
+    public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
 
-    [Column("createdat", TypeName = "timestamp without time zone")]
-    public DateTime? Createdat { get; set; }
+    public virtual ICollection<Review> Reviews { get; set; } = new List<Review>();
 
-    [Column(TypeName = "character varying")]
-    public string Email { get; set; } = null!;
-
-    [Column(TypeName = "character varying")]
-    public string? Phone { get; set; }
-
-    [InverseProperty("User")]
-    public virtual ICollection<Client> Clients { get; set; } = new List<Client>();
-
-    [InverseProperty("User")]
-    public virtual ICollection<Master> Masters { get; set; } = new List<Master>();
 }
