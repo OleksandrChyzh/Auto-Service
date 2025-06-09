@@ -3,8 +3,9 @@ using System.Collections.Generic;
 
 namespace DAL.Entities;
 
-public partial class Payment : IBaseEntity
+public class Payment : IBaseEntity
 {
+    // PRIMARY KEY + FOREIGN KEY на Order.Id
     public int Id { get; set; }
 
     public DateTime PaymentDate { get; set; }
@@ -13,5 +14,5 @@ public partial class Payment : IBaseEntity
 
     public string PaymentMethod { get; set; } = null!;
 
-    public virtual ICollection<Order> Orders { get; set; } = new List<Order>();
+    public virtual Order Order { get; set; } = null!;
 }

@@ -18,7 +18,6 @@ public partial class Car: IBaseEntity
     public string Vin { get; set; } = null!;
 
     public int ClientId { get; set; }
-
     public virtual User Client { get; set; } = null!;
 
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();

@@ -3,55 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\services\\scheduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\ischeduleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\schedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -60,7 +24,229 @@
       "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\ischedulerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\services\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\icarservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\schedulemodel\\schedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\schedulemodel\\createschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\schedulemodel\\getschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\imasterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\iserviceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\ireviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\ipaymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\services\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\carcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\services\\masterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\ordermodels\\clientorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\ordermodels\\masterorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\ordermodels\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\carmodel\\getcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\carmodel\\createcar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\interfaces\\iauthorizationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\mastermodel\\addmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\user\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\mastermodel\\getmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\user\\getuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\attributes\\weekdayattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\user\\updateuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\user\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\webapp\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC2B688-F204-45D8-AA7C-950C01538025}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\ordermodels\\createorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\servicemodels\\createservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250511173928_AddWeekDayConstraintFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250511172544_AddStatusConstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\models\\servicemodels\\getservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\entities\\ibaseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\orderservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1DF77E8-1CBD-40E4-8031-120A49678648}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\validation\\autoserviceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\iservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\migrations\\20250504120929_addonetoonepaymentorderrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\migrations\\20250504120257_updatepaymentrelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\migrations\\20250503160745_identity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\ireviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -69,34 +255,13 @@
       "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\servicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\orderservicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\masterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\dal.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF079D18-3B37-4305-988F-A6D3648993C8}|..\\BusinessLogic\\BusinessLogic.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0EC0758-BA73-42A6-9F95-AECCB194295A}|..\\DAL\\DAL.csproj|c:\\users\\sania\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0431\u0434 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\autoservice\\backend\\dal\\migrations\\20250511174445_fixstatusconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -106,7 +271,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,54 +295,106 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IUnitOfWork.cs*",
-              "RelativeToolTip": "..\\DAL\\Interfaces\\IUnitOfWork.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\ScheduleService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\ScheduleService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\ScheduleService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\ScheduleService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T15:21:26.439Z",
+              "WhenOpened": "2025-06-03T21:30:34.754Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Car.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Car.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Entities\\Car.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Car.cs*",
-              "RelativeToolTip": "..\\DAL\\Entities\\Car.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "ScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ScheduleRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\ScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ScheduleRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\ScheduleRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:07:26.734Z",
+              "WhenOpened": "2025-05-02T17:11:23.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:08:42.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Master.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Master.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Entities\\Master.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Master.cs*",
-              "RelativeToolTip": "..\\DAL\\Entities\\Master.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Title": "IScheduleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IScheduleRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IScheduleRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IScheduleRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IScheduleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:07:58.935Z",
+              "WhenOpened": "2025-05-02T17:57:39.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Review.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Entities\\Review.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Review.cs*",
-              "RelativeToolTip": "..\\DAL\\Entities\\Review.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IScheduleService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IScheduleService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IScheduleService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IScheduleService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IScheduleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:16:50.713Z",
+              "WhenOpened": "2025-05-12T13:01:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T20:06:52.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\GenericService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\GenericService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\GenericService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:29:46.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\ICarRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\ICarRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\ICarRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:28:26.819Z",
               "EditorCaption": ""
             },
             {
@@ -186,169 +403,302 @@
               "Title": "Schedule.cs",
               "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Schedule.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Entities\\Schedule.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Schedule.cs*",
-              "RelativeToolTip": "..\\DAL\\Entities\\Schedule.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Schedule.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:08:01.31Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Service.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Entities\\Service.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Service.cs*",
-              "RelativeToolTip": "..\\DAL\\Entities\\Service.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "CarService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\CarService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\CarService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\CarService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\CarService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:16:52.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\User.cs",
-              "RelativeToolTip": "..\\DAL\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:16:53.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\UnitOfWork.cs*",
-              "RelativeToolTip": "..\\DAL\\UnitOfWork.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:14:39.489Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\IBaseEntity.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Entities\\IBaseEntity.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\IBaseEntity.cs",
-              "RelativeToolTip": "..\\DAL\\Entities\\IBaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T15:21:43.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Data\\AppDbContext.cs*",
-              "RelativeToolTip": "..\\DAL\\Data\\AppDbContext.cs*",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAqwGgAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:05:31.595Z",
+              "WhenOpened": "2025-05-04T14:52:32.081Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "ICarService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\ICarService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\ICarService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\ICarService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\ICarService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:26:51.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\ReviewService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\ReviewService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\ReviewService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\ReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:21:42.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ScheduleController.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ScheduleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T13:00:36.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScheduleModel.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ScheduleModel\\ScheduleModel.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\ScheduleModel\\ScheduleModel.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ScheduleModel\\ScheduleModel.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\ScheduleModel\\ScheduleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T21:15:13.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ScheduleModel\\CreateSchedule.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\ScheduleModel\\CreateSchedule.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ScheduleModel\\CreateSchedule.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\ScheduleModel\\CreateSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:35:24.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetSchedule.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ScheduleModel\\GetSchedule.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\ScheduleModel\\GetSchedule.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ScheduleModel\\GetSchedule.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\ScheduleModel\\GetSchedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:51:10.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IMasterService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IMasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IMasterService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IMasterService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IMasterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:55:18.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IServiceService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IServiceService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IServiceService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IServiceService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IServiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T10:54:28.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IReviewService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IReviewService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IReviewService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T11:41:01.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IPaymentService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IPaymentService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IPaymentService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IPaymentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:20:48.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:11:15.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\PaymentService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\PaymentService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\PaymentService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAawDIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:33:35.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Payment.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Entities\\Payment.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Payment.cs*",
-              "RelativeToolTip": "..\\DAL\\Entities\\Payment.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Payment.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:16:48.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\OrderService.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Entities\\OrderService.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\OrderService.cs*",
-              "RelativeToolTip": "..\\DAL\\Entities\\OrderService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:08:00.354Z",
+              "WhenOpened": "2025-05-12T11:38:17.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 25,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\OrderService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T16:20:46.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T12:31:52.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:23:12.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Review.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Entities\\Review.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Review.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:16:50.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Order.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Entities\\Order.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Order.cs*",
-              "RelativeToolTip": "..\\DAL\\Entities\\Order.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\Order.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:16:46.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 29,
+              "Title": "ReviewModel.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ReviewModel.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\ReviewModel.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ReviewModel.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\ReviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T10:51:42.264Z",
+              "WhenOpened": "2025-05-03T21:33:00.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 30,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\Repository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:57:35.81Z"
+              "WhenOpened": "2025-05-02T17:10:05.115Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IReviewRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IReviewRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IReviewRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IReviewRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Interfaces\\IReviewRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:57:19.575Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "IScheduleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IScheduleRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IScheduleRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IScheduleRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Interfaces\\IScheduleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:57:39.936Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 31,
               "Title": "ReviewRepository.cs",
               "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ReviewRepository.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Repositories\\ReviewRepository.cs",
@@ -356,59 +706,337 @@
               "RelativeToolTip": "..\\DAL\\Repositories\\ReviewRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:01:54.2Z"
+              "WhenOpened": "2025-05-02T18:01:54.2Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IServiceRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IServiceRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IServiceRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Interfaces\\IServiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 32,
+              "Title": "CarController.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\CarController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CarController.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\CarController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CarController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T18:03:34.877Z"
+              "WhenOpened": "2025-05-12T09:39:47.307Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "IPaymentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IPaymentRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IPaymentRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IPaymentRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Interfaces\\IPaymentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 33,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\MasterController.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:56:20.801Z"
+              "WhenOpened": "2025-05-31T17:25:56.495Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ScheduleRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ScheduleRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\ScheduleRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ScheduleRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Repositories\\ScheduleRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:11:23.679Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "PaymentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\PaymentRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\PaymentRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\PaymentRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Repositories\\PaymentRepository.cs",
+              "DocumentIndex": 34,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ServiceController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:11:10.264Z"
+              "WhenOpened": "2025-05-12T10:53:28.86Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T18:05:37.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "MasterService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\MasterService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Services\\MasterService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Services\\MasterService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Services\\MasterService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T15:56:47.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:00:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\MappingProfile.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\MappingProfile.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:46:05.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ClientOrder.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\OrderModels\\ClientOrder.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\OrderModels\\ClientOrder.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\OrderModels\\ClientOrder.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\OrderModels\\ClientOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:17:42.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:10:56.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "MasterOrder.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\OrderModels\\MasterOrder.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\OrderModels\\MasterOrder.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\OrderModels\\MasterOrder.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\OrderModels\\MasterOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:17:27.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "..\\DAL\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAmwBEBAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:05:31.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\OrderModels\\OrderModel.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\OrderModels\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\OrderModels\\OrderModel.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\OrderModels\\OrderModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:41:19.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "GetCar.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\CarModel\\GetCar.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\CarModel\\GetCar.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\CarModel\\GetCar.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\CarModel\\GetCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:32:33.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:57:35.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Entities\\Car.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Car.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:26.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CreateCar.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\CarModel\\CreateCar.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\CarModel\\CreateCar.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\CarModel\\CreateCar.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\CarModel\\CreateCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T14:07:25.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\DAL\\UnitOfWork.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:14:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\User.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:16:53.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IAuthorizationService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IAuthorizationService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Interfaces\\IAuthorizationService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Interfaces\\IAuthorizationService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Interfaces\\IAuthorizationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:57:07.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AddMaster.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\MasterModel\\AddMaster.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\MasterModel\\AddMaster.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\MasterModel\\AddMaster.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\MasterModel\\AddMaster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T19:38:13.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\User\\Register.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\User\\Register.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\User\\Register.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\User\\Register.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:39:00.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "GetMaster.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\MasterModel\\GetMaster.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\MasterModel\\GetMaster.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\MasterModel\\GetMaster.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\MasterModel\\GetMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T14:59:19.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "GetUser.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\User\\GetUser.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\User\\GetUser.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\User\\GetUser.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\User\\GetUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:38:32.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UpdateUser.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\User\\UpdateUser.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\User\\UpdateUser.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\User\\UpdateUser.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\User\\UpdateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:44:33.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\User\\Login.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\User\\Login.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\User\\Login.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\User\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T12:38:03.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "WeekDayAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Attributes\\WeekDayAttribute.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Attributes\\WeekDayAttribute.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Attributes\\WeekDayAttribute.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Attributes\\WeekDayAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T11:55:28.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Repositories\\UserRepository.cs",
@@ -420,19 +1048,151 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ServiceRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ServiceRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\ServiceRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ServiceRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Repositories\\ServiceRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 59,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\PaymentModel.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\PaymentModel.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\PaymentModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:11:30.236Z"
+              "WhenOpened": "2025-05-03T21:31:37.223Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 60,
+              "Title": "Master.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Master.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Entities\\Master.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Master.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:07:58.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Entities\\Service.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\Service.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:16:52.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\WebApp\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T18:06:07.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "CreateOrder.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\OrderModels\\CreateOrder.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\OrderModels\\CreateOrder.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\OrderModels\\CreateOrder.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\OrderModels\\CreateOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T18:31:50.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "CreateService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ServiceModels\\CreateService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\ServiceModels\\CreateService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ServiceModels\\CreateService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\ServiceModels\\CreateService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:37:50.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20250511173928_AddWeekDayConstraintFix.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250511173928_AddWeekDayConstraintFix.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20250511173928_AddWeekDayConstraintFix.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250511173928_AddWeekDayConstraintFix.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20250511173928_AddWeekDayConstraintFix.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAIMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:39:28.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20250511174445_FixStatusConstraint.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250511174445_FixStatusConstraint.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20250511174445_FixStatusConstraint.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250511174445_FixStatusConstraint.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20250511174445_FixStatusConstraint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:44:45.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20250511172544_AddStatusConstraint.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250511172544_AddStatusConstraint.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20250511172544_AddStatusConstraint.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250511172544_AddStatusConstraint.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20250511172544_AddStatusConstraint.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAawEMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:25:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "GetService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ServiceModels\\GetService.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Models\\ServiceModels\\GetService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Models\\ServiceModels\\GetService.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Models\\ServiceModels\\GetService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T21:37:07.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Entities\\OrderService.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\OrderService.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\OrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:08:00.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "IBaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\IBaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Entities\\IBaseEntity.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Entities\\IBaseEntity.cs",
+              "RelativeToolTip": "..\\DAL\\Entities\\IBaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:21:43.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
               "Title": "OrderServiceRepository.cs",
               "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\OrderServiceRepository.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Repositories\\OrderServiceRepository.cs",
@@ -444,19 +1204,139 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 71,
+              "Title": "AutoServiceException.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Validation\\AutoServiceException.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLogic\\Validation\\AutoServiceException.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Validation\\AutoServiceException.cs",
+              "RelativeToolTip": "..\\BusinessLogic\\Validation\\AutoServiceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:10:56.453Z"
+              "WhenOpened": "2025-05-04T14:34:35.429Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 72,
+              "Title": "IServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IServiceRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IServiceRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IServiceRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T18:03:34.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20250504120929_AddOneToOnePaymentOrderRelation.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250504120929_AddOneToOnePaymentOrderRelation.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20250504120929_AddOneToOnePaymentOrderRelation.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250504120929_AddOneToOnePaymentOrderRelation.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20250504120929_AddOneToOnePaymentOrderRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:09:30.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20250504120257_UpdatePaymentRelation.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250504120257_UpdatePaymentRelation.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20250504120257_UpdatePaymentRelation.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250504120257_UpdatePaymentRelation.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20250504120257_UpdatePaymentRelation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T12:05:27.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20250503160745_Identity.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250503160745_Identity.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\20250503160745_Identity.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Migrations\\20250503160745_Identity.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\20250503160745_Identity.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwL4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:08:00.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:21:26.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:51:42.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "IReviewRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IReviewRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IReviewRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IReviewRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IReviewRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:57:19.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:56:20.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:11:10.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "ServiceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ServiceRepository.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\ServiceRepository.cs",
+              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\ServiceRepository.cs",
+              "RelativeToolTip": "..\\DAL\\Repositories\\ServiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T17:11:30.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
               "Title": "MasterRepository.cs",
               "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\MasterRepository.cs",
               "RelativeDocumentMoniker": "..\\DAL\\Repositories\\MasterRepository.cs",
@@ -465,65 +1345,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T17:10:50.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\Repository.cs",
-              "RelativeToolTip": "..\\DAL\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:10:05.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CarRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\CarRepository.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Repositories\\CarRepository.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Repositories\\CarRepository.cs",
-              "RelativeToolTip": "..\\DAL\\Repositories\\CarRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-02T17:08:42.472Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "DAL",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\DAL.csproj",
-              "RelativeDocumentMoniker": "..\\DAL\\DAL.csproj",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\DAL.csproj",
-              "RelativeToolTip": "..\\DAL\\DAL.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-26T13:41:29.666Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\DAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\DAL\\Class1.cs",
-              "RelativeToolTip": "..\\DAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T13:41:04.792Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\BusinessLogic\\Class1.cs",
-              "ToolTip": "C:\\Users\\sania\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\6 sem\\\u0411\u0414 \u043A\u0443\u0440\u0441\u043E\u0432\u0430\\AutoService\\Backend\\BusinessLogic\\Class1.cs",
-              "RelativeToolTip": "..\\BusinessLogic\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T13:13:52.725Z"
             }
           ]
         }

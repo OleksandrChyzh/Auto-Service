@@ -16,4 +16,6 @@ public partial class Review : IBaseEntity
     public DateOnly ReviewDate { get; set; }
 
     public virtual User Client { get; set; } = null!;
+
+    public virtual Order Order { get; set; } = null!; 
 }

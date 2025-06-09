@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace DAL.Entities;
+﻿namespace DAL.Entities;
 
 public partial class Order : IBaseEntity
 {
@@ -19,8 +16,6 @@ public partial class Order : IBaseEntity
 
     public int MasterId { get; set; }
 
-    public int? PaymentId { get; set; }
-
     public virtual Car Car { get; set; } = null!;
 
     public virtual User Client { get; set; } = null!;
@@ -30,4 +25,7 @@ public partial class Order : IBaseEntity
     public virtual ICollection<OrderService> OrderServices { get; set; } = new List<OrderService>();
 
     public virtual Payment? Payment { get; set; }
+
+    public virtual Review? Review { get; set; }
+
 }

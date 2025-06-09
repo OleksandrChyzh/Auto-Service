@@ -9,5 +9,7 @@ namespace DAL.Interfaces
 {
     public interface IScheduleRepository : IRepository<Schedule>
     {
+        Task<IEnumerable<Schedule>> GetByMasterIdAsync(int masterId);
+
     }
 }

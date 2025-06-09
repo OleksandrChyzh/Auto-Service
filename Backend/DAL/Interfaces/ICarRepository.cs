@@ -10,5 +10,7 @@ namespace DAL.Interfaces
 {
     public interface ICarRepository : IRepository<Car>
     {
+        Task<IEnumerable<Car>> GetByUserIdAsync(int userId);
+
     }
 }

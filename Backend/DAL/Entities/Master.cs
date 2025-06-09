@@ -7,6 +7,10 @@ public partial class Master : IBaseEntity
 {
     public int Id { get; set; }
 
+    public string FirstName { get; set; } = string.Empty;
+
+    public string LastName { get; set; } = string.Empty;
+
     public string Specialization { get; set; } = null!;
 
     public virtual ICollection<Order> Orders { get; set; } = new List<Order>();

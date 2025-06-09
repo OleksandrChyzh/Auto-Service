@@ -68,6 +68,14 @@ namespace DAL.Migrations
                     b.Property<int>("Id")
                         .HasColumnType("integer");
 
+                    b.Property<string>("FirstName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("LastName")
+                        .IsRequired()
+                        .HasColumnType("text");
+
                     b.Property<string>("Specialization")
                         .IsRequired()
                         .HasColumnType("character varying")
@@ -82,7 +90,7 @@ namespace DAL.Migrations
                 {
                     b.Property<int>("Id")
                         .HasColumnType("integer")
-                        .HasColumnName("OrderID ");
+                        .HasColumnName("OrderID");
 
                     b.Property<int>("CarId")
                         .HasColumnType("integer");
@@ -95,19 +103,16 @@ namespace DAL.Migrations
 
                     b.Property<DateOnly>("OrderDate")
                         .HasColumnType("date")
-                        .HasColumnName("OrderDate ");
-
-                    b.Property<int?>("PaymentId")
-                        .HasColumnType("integer");
+                        .HasColumnName("OrderDate");
 
                     b.Property<string>("Status")
                         .IsRequired()
                         .HasColumnType("character varying")
-                        .HasColumnName("Status ");
+                        .HasColumnName("Status");
 
                     b.Property<decimal>("TotalCost")
                         .HasColumnType("numeric")
-                        .HasColumnName("TotalCost ");
+                        .HasColumnName("TotalCost");
 
                     b.HasKey("Id");
 
@@ -117,9 +122,10 @@ namespace DAL.Migrations
 
                     b.HasIndex("MasterId");
 
-                    b.HasIndex("PaymentId");
-
-                    b.ToTable("Orders", (string)null);
+                    b.ToTable("Orders", null, t =>
+                        {
+                            t.HasCheckConstraint("CHK_Status_Values", "\"Status\" IN ('Створене', 'Прийняте', 'Закінчене', 'Оплачене')");
+                        });
                 });
 
             modelBuilder.Entity("DAL.Entities.OrderService", b =>
@@ -134,17 +140,9 @@ namespace DAL.Migrations
                     b.Property<int>("OrderId")
                         .HasColumnType("integer");
 
-                    b.Property<int>("Quantity")
-                        .HasColumnType("integer")
-                        .HasColumnName("Quantity ");
-
                     b.Property<int>("ServiceId")
                         .HasColumnType("integer")
                         .HasColumnName("ServiceID ");
-
-                    b.Property<decimal>("TotalPrice")
-                        .HasColumnType("numeric")
-                        .HasColumnName("TotalPrice ");
 
                     b.HasKey("Id");
 
@@ -182,8 +180,6 @@ namespace DAL.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer")
                         .HasColumnName("ReviewID");
-
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
 
                     b.Property<int>("ClientId")
                         .HasColumnType("integer");
@@ -227,13 +223,17 @@ namespace DAL.Migrations
                         .IsRequired()
                         .ValueGeneratedOnAdd()
                         .HasColumnType("character varying")
+                        .HasColumnName("WeekDay")
                         .HasDefaultValueSql("'Monday'::character varying");
 
                     b.HasKey("Id");
 
                     b.HasIndex("MasterId");
 
-                    b.ToTable("Schedules", (string)null);
+                    b.ToTable("Schedules", null, t =>
+                        {
+                            t.HasCheckConstraint("CK_Schedules_WeekDay", "\"WeekDay\" IN ('Понеділок', 'Вівторок', 'Середа', 'Четвер', 'П''ятниця', 'Субота', 'Неділя')");
+                        });
                 });
 
             modelBuilder.Entity("DAL.Entities.Service", b =>
@@ -378,18 +378,11 @@ namespace DAL.Migrations
                         .IsRequired()
                         .HasConstraintName("MasterFK");
 
-                    b.HasOne("DAL.Entities.Payment", "Payment")
-                        .WithMany("Orders")
-                        .HasForeignKey("PaymentId")
-                        .HasConstraintName("PaymentFK");
-
                     b.Navigation("Car");
 
                     b.Navigation("Client");
 
                     b.Navigation("Master");
-
-                    b.Navigation("Payment");
                 });
 
             modelBuilder.Entity("DAL.Entities.OrderService", b =>
@@ -412,6 +405,18 @@ namespace DAL.Migrations
                     b.Navigation("Service");
                 });
 
+            modelBuilder.Entity("DAL.Entities.Payment", b =>
+                {
+                    b.HasOne("DAL.Entities.Order", "Order")
+                        .WithOne("Payment")
+                        .HasForeignKey("DAL.Entities.Payment", "Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired()
+                        .HasConstraintName("OrderFK");
+
+                    b.Navigation("Order");
+                });
+
             modelBuilder.Entity("DAL.Entities.Review", b =>
                 {
                     b.HasOne("DAL.Entities.User", "Client")
@@ -421,7 +426,16 @@ namespace DAL.Migrations
                         .IsRequired()
                         .HasConstraintName("Client_FK");
 
+                    b.HasOne("DAL.Entities.Order", "Order")
+                        .WithOne("Review")
+                        .HasForeignKey("DAL.Entities.Review", "Id")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired()
+                        .HasConstraintName("Order_FK");
+
                     b.Navigation("Client");
+
+                    b.Navigation("Order");
                 });
 
             modelBuilder.Entity("DAL.Entities.Schedule", b =>
@@ -450,11 +464,10 @@ namespace DAL.Migrations
             modelBuilder.Entity("DAL.Entities.Order", b =>
                 {
                     b.Navigation("OrderServices");
-                });
 
-            modelBuilder.Entity("DAL.Entities.Payment", b =>
-                {
-                    b.Navigation("Orders");
+                    b.Navigation("Payment");
+
+                    b.Navigation("Review");
                 });
 
             modelBuilder.Entity("DAL.Entities.Service", b =>

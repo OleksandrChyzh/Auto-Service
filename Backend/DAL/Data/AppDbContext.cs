@@ -129,14 +129,15 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
             entity.ToTable("Orders");
 
             entity.Property(e => e.Id)
-                .HasColumnName("OrderID ")
+                .HasColumnName("OrderID")
                 .ValueGeneratedNever();
 
-            entity.Property(e => e.OrderDate).HasColumnName("OrderDate ");
+            entity.Property(e => e.OrderDate).HasColumnName("OrderDate");
             entity.Property(e => e.Status)
                 .HasColumnType("character varying")
-                .HasColumnName("Status ");
-            entity.Property(e => e.TotalCost).HasColumnName("TotalCost ");
+                .HasColumnName("Status");
+
+            entity.Property(e => e.TotalCost).HasColumnName("TotalCost");
 
             entity.HasOne(d => d.Car)
                 .WithMany(p => p.Orders)
@@ -156,20 +157,20 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("MasterFK");
 
-            entity.HasOne(d => d.Payment)
-                .WithMany(p => p.Orders)
-                .HasForeignKey(d => d.PaymentId)
-                .HasConstraintName("PaymentFK");
+            // Додавання констрейнту на значення поля Status
+            entity.HasCheckConstraint(
+                "CHK_Status_Values",
+                "\"Status\" IN ('Створене', 'Прийняте', 'Закінчене', 'Оплачене')");
+
         });
+
 
         modelBuilder.Entity<OrderService>(entity =>
         {
             entity.ToTable("OrderServices");
 
             entity.Property(e => e.Id).HasColumnName("OrderServiceID ");
-            entity.Property(e => e.Quantity).HasColumnName("Quantity ");
             entity.Property(e => e.ServiceId).HasColumnName("ServiceID ");
-            entity.Property(e => e.TotalPrice).HasColumnName("TotalPrice ");
 
             entity.HasOne(d => d.Order)
                 .WithMany(p => p.OrderServices)
@@ -187,18 +188,27 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
         {
             entity.ToTable("Payments");
 
+            entity.HasKey(e => e.Id);
+
             entity.Property(e => e.Id)
-                .ValueGeneratedNever()
+                .ValueGeneratedNever() 
                 .HasColumnName("PaymentID");
 
             entity.Property(e => e.PaymentDate).HasColumnType("timestamp without time zone");
+
             entity.Property(e => e.PaymentMethod).HasColumnType("character varying");
+
+            entity.HasOne(p => p.Order)
+                .WithOne(o => o.Payment)
+                .HasForeignKey<Payment>(p => p.Id)
+                .HasConstraintName("OrderFK");
         });
 
         modelBuilder.Entity<Review>(entity =>
         {
             entity.ToTable("Reviews");
 
+            // Використовуємо Id як первинний ключ і зовнішній ключ
             entity.Property(e => e.Id)
                 .HasColumnName("ReviewID")
                 .ValueGeneratedOnAdd();
@@ -206,11 +216,19 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
             entity.Property(e => e.ReviewDate)
                 .HasDefaultValueSql("CURRENT_DATE");
 
+            // Встановлюємо відношення з Order, де Id є зовнішнім ключем
+            entity.HasOne(d => d.Order)
+                .WithOne(p => p.Review)   // Один відгук до одного замовлення
+                .HasForeignKey<Review>(d => d.Id) // Використовуємо Id як зовнішній ключ
+                .HasConstraintName("Order_FK");
+
+            // Встановлюємо відношення з Client
             entity.HasOne(d => d.Client)
                 .WithMany(p => p.Reviews)
                 .HasForeignKey(d => d.ClientId)
                 .HasConstraintName("Client_FK");
         });
+
 
         modelBuilder.Entity<Schedule>(entity =>
         {
@@ -221,8 +239,12 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
                 .HasDefaultValueSql("nextval('weeklyschedule_scheduleid_seq'::regclass)");
 
             entity.Property(e => e.WeekDay)
-                .HasDefaultValueSql("'Monday'::character varying")
-                .HasColumnType("character varying");
+                .HasColumnName("WeekDay") // Явно вказано ім’я колонки
+                .HasColumnType("character varying")
+                .HasDefaultValueSql("'Monday'::character varying");
+
+            entity.HasCheckConstraint("CK_Schedules_WeekDay",
+                "\"WeekDay\" IN ('Понеділок', 'Вівторок', 'Середа', 'Четвер', 'П''ятниця', 'Субота', 'Неділя')");
 
             entity.HasOne(d => d.Master)
                 .WithMany(p => p.Schedules)
@@ -230,6 +252,7 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
                 .OnDelete(DeleteBehavior.ClientSetNull)
                 .HasConstraintName("MasterFK");
         });
+
 
         modelBuilder.Entity<Service>(entity =>
         {

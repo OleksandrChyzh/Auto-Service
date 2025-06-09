@@ -12,8 +12,8 @@ namespace DAL.Repositories
 {
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {
-        public DbContext _context { get; }
-        public DbSet<TEntity> _dbSet { get; }
+        protected AppDbContext _context { get; }
+        protected DbSet<TEntity> _dbSet { get; }
 
         public Repository(AppDbContext context)
         {

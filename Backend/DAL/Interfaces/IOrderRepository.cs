@@ -9,5 +9,7 @@ namespace DAL.Interfaces
 {
     public interface IOrderRepository : IRepository<Order>
     {
+        Task<IEnumerable<Order>> GetByUserIdAsync(int userId);
+
     }
 }
