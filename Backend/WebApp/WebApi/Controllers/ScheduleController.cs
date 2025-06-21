@@ -42,7 +42,7 @@ namespace WebApi.Controllers
 
         [Authorize(Roles = "Admin")]
         [HttpPut]
-        public async Task<IActionResult> UpdateSchedule([FromBody] CreateSchedule dto)
+        public async Task<IActionResult> UpdateSchedule([FromBody] UpdateSchedule dto)
         {
             await service.UpdateAsync(dto);
             return NoContent();

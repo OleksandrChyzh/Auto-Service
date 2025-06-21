@@ -27,6 +27,12 @@ namespace BusinessLogic
                     PhoneNumber = src.PhoneNumber
                 }));
 
+            CreateMap<AddMaster, Master>()
+                .ForPath(dest => dest.User.Email, opt => opt.MapFrom(src => src.Email))
+                .ForPath(dest => dest.User.UserName, opt => opt.MapFrom(src => src.UserName))
+                .ForPath(dest => dest.User.PhoneNumber, opt => opt.MapFrom(src => src.PhoneNumber));
+
+
             CreateMap<Master, GetMaster>();
             CreateMap<Payment, PaymentModel>();
 
@@ -44,6 +50,7 @@ namespace BusinessLogic
                 
 
             CreateMap<CreateSchedule, Schedule>();
+            CreateMap<UpdateSchedule, Schedule>();
             CreateMap<Schedule, GetSchedule>();
 
             CreateMap<Service, GetService>();
@@ -51,8 +58,10 @@ namespace BusinessLogic
                 .ForMember(dest => dest.OrderServices, opt => opt.Ignore());
 
             CreateMap<CreateOrder, Order>()
+                .ForMember(dest => dest.Id, opt => opt.Ignore()) // важливо!
                 .ForMember(dest => dest.OrderDate, opt => opt.MapFrom(_ => DateOnly.FromDateTime(DateTime.Now)))
-                .ForMember(dest => dest.Status, opt => opt.MapFrom(_ => "Created"));
+                .ForMember(dest => dest.Status, opt => opt.MapFrom(_ => "Створене"));
+
 
             CreateMap<Order, MasterOrder>()
                 .ForMember(dest => dest.UserName, opt => opt.MapFrom(src => src.Client.UserName));
@@ -66,7 +75,7 @@ namespace BusinessLogic
             CreateMap<UpdateUser, User>();
             CreateMap<User, GetUser>();
 
-
+            CreateMap<Service, ServiceModel>();
         }
     }
 }

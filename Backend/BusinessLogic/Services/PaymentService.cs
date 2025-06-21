@@ -23,11 +23,25 @@ namespace BusinessLogic.Services
             {
                 throw new UnauthorizedAccessException("Invalid client ID");
             }
+
             var payment = mapper.Map<Payment>(dto);
 
+            // Додати платіж
             await uof.PaymentRepository.AddAsync(payment);
+
+            // Знайти пов'язане замовлення
+            var order = await uof.OrderRepository.GetByIdAsync(payment.Id)
+                        ?? throw new Exception("Order not found for this payment");
+
+            // Оновити статус
+            order.Status = "Оплачене";
+
+            // Зберегти зміни через OrderRepository
+            await uof.OrderRepository.UpdateAsync(order);
+
             return payment.Id;
         }
+
 
         public async Task DeletePaymentAsync(int id, ClaimsPrincipal user)
         {

@@ -11,5 +11,8 @@ namespace DAL.Interfaces
     {
         Task<IEnumerable<Order>> GetByUserIdAsync(int userId);
 
+        Task<IEnumerable<Order>> GetByMasterIdAsync(int masterId);
+
+
     }
 }

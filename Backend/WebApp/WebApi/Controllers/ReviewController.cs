@@ -10,24 +10,28 @@ namespace WebApi.Controllers
     [ApiController]
     public class ReviewController(IReviewService service) : ControllerBase
     {
-        [Authorize(Roles = "Client,Admin")]
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> CreateReview([FromBody] ReviewModel dto)
         {
+            if (User.IsInRole("Master") || User.IsInRole("Admin"))
+                return Forbid("Only clients are allowed to create reviews.");
+
             var id = await service.CreateReviewAsync(dto, User);
             return Ok(id);
         }
 
-
-        [Authorize(Roles = "Client,Admin")]
+        [Authorize]
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteReview(int id)
         {
+            if (User.IsInRole("Master") || User.IsInRole("Admin"))
+                return Forbid("Only clients are allowed to delete reviews.");
+
             await service.DeleteReviewAsync(id, User);
             return NoContent();
         }
 
-                
         [HttpGet("{id}")]
         public async Task<IActionResult> GetReview(int id)
         {

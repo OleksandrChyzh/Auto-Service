@@ -11,7 +11,7 @@ namespace WebApi.Controllers
     [ApiController]
     public class PaymentController(IPaymentService service) : ControllerBase
     {
-        [Authorize(Roles = "Client,Admin")]
+        [Authorize]
         [HttpPost]
         public async Task<IActionResult> CreatePayment([FromBody] PaymentModel dto)
         {

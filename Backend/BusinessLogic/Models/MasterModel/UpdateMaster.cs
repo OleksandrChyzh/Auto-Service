@@ -8,15 +8,14 @@ using System.Threading.Tasks;
 
 namespace BusinessLogic.Models.MasterModel
 {
-    public record AddMaster(
-    [Required] int Id,
-    [Required] string FirstName,
-    [Required] string LastName,
-    [Required] string Specialization,
-
-    [Required][EmailAddress] string Email,
-    [Required] string Password,
-    [Required] string UserName,
+    public record UpdateMaster(
+    int Id,
+    string FirstName,
+    string LastName,
+    string Specialization,
+    [EmailAddress] string Email,
+    string Password,
+    string UserName,
     [Phone] string? PhoneNumber
 ) : Register(Email, Password, UserName, PhoneNumber);
 }

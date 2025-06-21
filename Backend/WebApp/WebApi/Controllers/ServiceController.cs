@@ -14,14 +14,14 @@ namespace WebApi.Controllers
         [HttpGet]
         public async Task<IActionResult> GetServices()
         {
-            return Ok(await service.GetAllAsync());
+            return Ok(await service.GetServicesAsync());
         }
 
         [Authorize(Roles = "Admin")]
         [HttpPost]
         public async Task<IActionResult> CreateService([FromBody] CreateService dto)
         {
-            var id = await service.AddAsync(dto);
+            var id = await service.AddServiceAsync(dto);
             return Ok(id);
         }
 
@@ -29,7 +29,15 @@ namespace WebApi.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteService(int id)
         {
-            await service.DeleteAsync(id);
+            await service.DeleteServiceAsync(id);
+            return NoContent();
+        }
+
+        [Authorize(Roles = "Admin")]
+        [HttpPut]
+        public async Task<IActionResult> UpdateService([FromBody] CreateService dto)
+        {
+            await service.UpdateServiceAsync(dto);
             return NoContent();
         }
     }

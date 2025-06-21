@@ -14,7 +14,6 @@ namespace BusinessLogic.Models.User
     string Email,
 
     [Required]
-    [Range(6, 100)]
     string Password,
 
     [Required]

@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Repositories
 {
-    internal class OrderRepository : Repository<Order>, IOrderRepository
+    public class OrderRepository : Repository<Order>, IOrderRepository
     {
         public OrderRepository(AppDbContext context) : base(context) { }
 
@@ -26,6 +26,19 @@ namespace DAL.Repositories
                 .Include(o => o.OrderServices)
                 .ToListAsync();
         }
+
+        public async Task<IEnumerable<Order>> GetByMasterIdAsync(int masterId)
+        {
+            return await _context.Orders
+                .Where(o => o.MasterId == masterId)
+                .Include(o => o.Car)          
+                .Include(o => o.Client)       
+                .Include(o => o.Payment)      
+                .Include(o => o.Review)       
+                .Include(o => o.OrderServices) 
+                .ToListAsync();
+        }
+
 
     }
 

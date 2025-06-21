@@ -34,5 +34,23 @@ namespace WebApi.Controllers
             await service.DeleteOrderAsync(id, User);
             return NoContent();
         }
+
+       
+        [Authorize(Roles = "Master")]
+        [HttpPut("{id}/accept")]
+        public async Task<IActionResult> AcceptOrder(int id)
+        {
+            await service.AcceptOrderAsync(id, User);
+            return NoContent();
+        }
+
+        
+        [Authorize(Roles = "Master")]
+        [HttpPut("{id}/complete")]
+        public async Task<IActionResult> CompleteOrder(int id)
+        {
+            await service.CompleteOrderAsync(id, User);
+            return NoContent();
+        }
     }
 }

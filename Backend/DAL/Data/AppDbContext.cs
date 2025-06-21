@@ -81,8 +81,9 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
             entity.ToTable("Cars");
 
             entity.Property(e => e.Id)
-                .HasColumnName("CarID ")
-                .ValueGeneratedNever();
+                .HasColumnName("CarID")
+                .UseIdentityAlwaysColumn(); // ✅ дозвіл PostgreSQL автоматично генерувати Id
+
 
             entity.Property(e => e.Brand)
                 .HasColumnType("character varying")
@@ -130,7 +131,7 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
 
             entity.Property(e => e.Id)
                 .HasColumnName("OrderID")
-                .ValueGeneratedNever();
+                .ValueGeneratedOnAdd(); 
 
             entity.Property(e => e.OrderDate).HasColumnName("OrderDate");
             entity.Property(e => e.Status)
@@ -194,7 +195,8 @@ public partial class AppDbContext : IdentityDbContext<User, IdentityRole<int>, i
                 .ValueGeneratedNever() 
                 .HasColumnName("PaymentID");
 
-            entity.Property(e => e.PaymentDate).HasColumnType("timestamp without time zone");
+            entity.Property(p => p.PaymentDate)
+                .HasColumnType("timestamp with time zone");
 
             entity.Property(e => e.PaymentMethod).HasColumnType("character varying");
 

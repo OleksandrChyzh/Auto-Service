@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DAL.Repositories
 {
-    internal class ScheduleRepository : Repository<Schedule>, IScheduleRepository
+    public class ScheduleRepository : Repository<Schedule>, IScheduleRepository
     {
         public ScheduleRepository(AppDbContext context) : base(context) { }
 

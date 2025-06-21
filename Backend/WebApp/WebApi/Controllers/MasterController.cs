@@ -36,13 +36,5 @@ namespace WebApi.Controllers
             await service.DeleteMasterAsync(id);
             return NoContent();
         }
-
-        [Authorize(Roles = "Admin")]
-        [HttpPut]
-        public async Task<IActionResult> UpdateMaster([FromBody] AddMaster dto)
-        {
-            await service.UpdateMasterAsync(dto);
-            return NoContent();
-        }
     }
 }

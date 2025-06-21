@@ -9,7 +9,5 @@ namespace BusinessLogic.Interfaces
         Task<int> AddMasterAsync(AddMaster dto);
         Task DeleteMasterAsync(int id);
 
-        Task<int> UpdateMasterAsync(AddMaster dto);
-
     }
 }

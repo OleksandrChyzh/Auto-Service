@@ -2,13 +2,12 @@
 
 namespace BusinessLogic.Models.MasterModel
 {
-    public record GetMaster(
-        int Id,
-        string FirstName,
-        string LastName,
-        string Specialization,
-        string Email,
-        string UserName,
-        string? PhoneNumber
-    ) : GetUser(Email, UserName, PhoneNumber);
+    public class GetMaster 
+    {
+        public int Id { get; set; }
+        public string FirstName { get; set; } = null!;
+        public string LastName { get; set; } = null!;
+        public string Specialization { get; set; } = null!;
+    }
+
 }
